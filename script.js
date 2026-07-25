@@ -1,7 +1,7 @@
 //<![CDATA[
-const CSV_INDO_URL = "https://raw.githubusercontent.com/adisd321-hub/database-video/main/data.csv";
-const CSV_BARAT_URL = "https://raw.githubusercontent.com/adisd321-hub/database-video/main/data2.csv";
-const CSV_HD_URL = "https://raw.githubusercontent.com/adisd321-hub/database-video/main/data3.csv";
+const CSV_INDO_URL = "https://raw.githubusercontent.com/mrslurak1-design/data/main/data.csv";
+const CSV_BARAT_URL = "https://raw.githubusercontent.com/mrslurak1-design/data/main/data2.csv";
+const CSV_HD_URL = "https://raw.githubusercontent.com/mrslurak1-design/data/main/data3.csv";
 
 const urlParams = new URLSearchParams(window.location.search);
 const videoPageContainer = document.getElementById('video-page-container');
